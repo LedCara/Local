@@ -1,0 +1,9 @@
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+F8-16-54-31-F5-B5   Media disconnected                                        
+FA-16-54-31-F5-B6   Media disconnected                                        
+FA-16-54-31-F5-B5   Media disconnected                                        
+28-D2-44-C5-FC-2C   \Device\Tcpip_{0E3775A4-B854-4B85-B861-F237D676250B}      
+F8-16-54-31-F5-B9   Media disconnected                                        
+N/A                 Hardware not present                                      
